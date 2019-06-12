@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>EuroSciCon Conferences</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="EuroSciCon Conferences">
+<meta name="description" content="EuroSciCon Conferences">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" rel="stylesheet">
+
+<link rel="stylesheet"  href="https://d2cax41o7ahm5l.cloudfront.net/es/css/flags.min.css"/>
+<link rel="stylesheet"  href="https://d2cax41o7ahm5l.cloudfront.net/es/css/euro-scicon-conf-style-03.css"/>
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+<link rel="shortcut icon" href="https://d2cax41o7ahm5l.cloudfront.net/es/images/favicon.png">
+<!-- <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/apple-touch-icon-57-precomposed.png">
+-->
+</head>
+
+<body>
+<div id="CssFailCheck" class="hidden"></div>
+<div class="container">
+
+<header>
+
+
+
+<div class="row">
+
+
+
+
+
+<div class="col-md-12 landing-info-main">
+<div class="conf-title-main text-center">
+
+<hgroup><h1 class="text-white">Welcome to<br> <span>EuroSciCon Conferences</span></h1>
+
+<h4 class="text-white"><em>Spearheading the Transformation of Medical Research into Knowledge through Scientific Gatherings and Networking</em></h4>
+<h3 class="text-uppercase text-white padding-sm euro-caption" style="display:inline-block;">16 years of lifescience communication</h3></hgroup>
+</div>
+
+<!--<div id="custom-search-input" class="col-md-6 col-md-offset-3">
+                            <form method="post" action="#"  role="form">
+                                <div class="input-group input-group">
+                                    <input type="text" class="form-control input-lg" placeholder="Search here" required>
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-danger btn-lg" type="button">Search</button>
+
+                                    </span>
+
+                                </div>
+                            </form>
+                        </div>-->
+                        <p class="text-center"><a href="#" class="btn btn-danger btn-lg">Download Conferences Brochure <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></p>
+</div>
+
+
+</div>
+
+<div class="row euro-main-nav">
+<nav class="navbar navbar-default">
+   
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span>MENU</span> </button>
+        <a href="http://www.euroscicon.com" title="Home" class="navbar-brand"><img src="https://d2cax41o7ahm5l.cloudfront.net/es/images/euroscicon-logo.png" title="euroscicon" class="img-responsive" alt="euroscicon"></a> </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-left">
+          <li><a href="http://www.euroscicon.com" title="Home" class="text-uppercase"><i class="fa fa-home"></i>Home</a></li>
+          <li><a href="http://www.euroscicon.com/about" title="About Us"  class="text-uppercase"><i class="fa fa-user"></i>About Us</a></li>
+          <!-- <li><a href="#" title="About Us" target="_blank" class="text-uppercase"><i class="fa fa-user"></i>Conferences</a></li> -->
+          <li><a href="http://www.euroscicon.com/contact" title="About Us"  class="text-uppercase"><i class="fa fa-user"></i>Contact</a></li>
+          <!-- <li><a href="#" title="About Us" target="_blank" class="text-uppercase"><i class="fa fa-user"></i>Sponsors/Exhibitors</a></li> -->
+          
+                    
+          
+          
+          
+          
+          
+        </ul>
+        
+      
+        
+
+      </div>
+   
+  </nav>
+  </div>
+
+</header>
+</div>
+    <div class="container wrapper">
+<main>
+<h3 class="text-center">Sorry! Page you requested was not Found!</h3>
+	<br/>
+	<br/>
+	<div class="col-md-6 col-md-offset-3">
+		<form method="get" name="form1" action="https://crystallography.euroscicon.com//search-results">
+		<div class="input-group input-group-lg">
+			<input type="text" class="form-control" placeholder="Search" name="keyword" id="keyword" required>
+			<div class="input-group-btn">
+				<button type="submit" name="search_conf" class="btn btn-danger"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+			</div>
+		</div>
+		</form>
+	</div>
+	<br/>
+	<br/><br/><br/><br/>	
+ </main>
+<footer class="row text-white">
+
+
+
+<div class="col-md-12">
+<div class="contact">
+<h3 class="text-center text-white text-uppercase"><strong>Contact us</strong></h3>
+<div class="row">
+<div class="col-md-6">
+<p class="h4">Contact Us Guest? Potential Sponsor? Questions? Get in touch.</p>
+<div class="row">
+<div class="col-md-6">
+<h4 class="text-primary text-uppercase"><strong>Address</strong></h4>
+<address>
+<p><strong>Euroscicon ltd.,</strong><br>
+Highstone House, 165 High Street,<br>
+Barnet, Hertfordshire EN5 5SU, UK</p>
+</address>
+</div>
+<div class="col-md-6">
+<h4 class="text-primary text-uppercase"><strong>Phone &amp; Email</strong></h4>
+
+<p>Tel : (+44) 020 7183 8231<br> 
+Ext : (+44) 020 3807 3712</p>
+<p><a href="mailto:info@euroscicon.com">info@euroscicon.com</a></p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<form class="form-horizontal">
+<div class="form-group">
+    <label for="inputName" class="col-sm-2 control-label text-uppercase">Name</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="inputName" placeholder="name" required>
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="inputEmail" class="col-sm-2 control-label text-uppercase">Email</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
+    </div>
+  </div>
+   <div class="form-group">
+    <label for="inputMessage" class="col-sm-2 control-label text-uppercase">Message</label>
+    <div class="col-sm-10">
+     <textarea class="form-control" rows="3" id="inputMessage"></textarea>
+    </div>
+  </div>
+  
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+      <button type="submit" class="btn btn-default text-uppercase"><strong>Send</strong></button>
+    </div>
+  </div>
+</form>
+</div>
+</div>
+</div>
+<div class="social-connect">
+<h3 class="h1 text-center text-white text-uppercase"><strong>Let&rsquo;s connect!</strong></h3>
+<div class="social text-center">
+<a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+<a target="_blank" href="#"><i class="fa fa-envelope"></i></a>
+<a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
+<a target="_blank" href="#"><i class="fa fa-pinterest"></i></a>
+<a target="_blank" href="#"><i class="fa fa-youtube-play"></i></a>
+<a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
+<a target="_blank" href="#"><i class="fa fa-instagram"></i></a>
+
+<a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+                                    </div>
+</div>
+
+<div class="row about-company">
+<div class="col-md-12"><p>EuroSciCon Events are produced by <a href="http://euroscicon.com/" title="Euroscicon Ltd" target="_blank">Euroscicon Ltd</a></p>
+
+<p>EuroSciCon, founded in 2001 is a UK based independent life science Events Company with predominantly business and academic client base. The key strategic objective of EuroSciCon is to communicate science and medical research between academia, clinical practice and the pharmaceutical industry. Most of its events are in Europe and London or live streamed. EuroSciCon expanded its operations to international in association with Meetings International, Singapore. All major meetings of EuroSciCon and Meetings International are accredited with Continued Professional Education (CPD), Continued Education (CE), Continued Medical Education (CME) Credits.</p></div>
+</div>
+</div>
+</footer>
+
+</div>
+<!-- jQuery CDN --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+<script>window.jQuery || document.write('<script src="https://d2cax41o7ahm5l.cloudfront.net/cs/js/jquery-1.11.3.min.js"><\/script>')</script> 
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> 
+  <script>if(typeof($.fn.modal)==='undefined'){document.write('<script src="https://d2cax41o7ahm5l.cloudfront.net/cs/js/bootstrap.min.js"><\/script>')}</script>
+<script src="https://d2cax41o7ahm5l.cloudfront.net/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script>
+$(function () {
+  if ($('#CssFailCheck').is(':visible') === true) {
+    $('<link rel="stylesheet" type="text/css" href="https://d2cax41o7ahm5l.cloudfront.net/cs/css/bootstrap.min.css">').prependTo('head');
+  }
+});
+</script> 
+<script>
+// use local font-awesome file as fallback if font-awesome CDN fails
+    (function($){
+        var $span = $('<span class="fa" style="display:none"></span>').prependTo('body');
+        if ($span.css('fontFamily') !== 'FontAwesome' ) {
+            // Fallback Link
+            $('head').prepend('<link href="https://d2cax41o7ahm5l.cloudfront.net/cs/css/font-awesome.min.css" rel="stylesheet">');
+        }
+        $span.remove();
+    })(jQuery);
+</script> 
+
+<script>
+    var container = document.getElementById('mainPageContent');
+
+	
+$( ".conf-info .nav-pills li a").click(function(event) {
+event.preventDefault();
+
+$(this).parent('li').addClass('active').siblings().removeClass('active'); 
+var target=$(this).attr('rel');
+
+    var scrollTo = document.getElementById(target);
+
+    container.scrollTop = scrollTo.offsetTop;
+	
+	
+	
+});
+
+</script>
+
+</body>
+</html>
